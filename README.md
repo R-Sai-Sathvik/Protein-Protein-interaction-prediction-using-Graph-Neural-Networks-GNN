@@ -1,2 +1,2 @@
 # Protein-Protein-interaction-prediction-using-Graph-Neural-Networks-GNN
-This repository contains code and models for predicting Protein-Protein Interactions using Graph Neural Networks (GNNs). Proteins are represented as nodes and interactions as edges in a graph. The model leverages protein features and graph structure to predict interaction likelihood between protein pairs.
+A GNN-based system for predicting Protein-Protein Interactions. It represents proteins as nodes and interactions as edges in a graph, utilizing protein features to estimate interaction likelihood. The system enhances biological research by improving PPI prediction accuracy, aiding drug discovery and functional analysis.
